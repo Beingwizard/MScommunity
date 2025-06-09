@@ -10,11 +10,11 @@ This guide helps you identify your ideal learning path based on your current dom
 - Familiarity with cloud concepts
 
 📘 **Learn Modules**:
-- [Introduction to AI](https://learn.microsoft.com/en-us/training/paths/introduction-to-ai/)
-- [Create regression models with Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/create-regression-model-azure-machine-learning/)
-- [Build AI solutions with Azure Cognitive Services](https://learn.microsoft.com/en-us/training/paths/build-ai-solutions-with-azure-cognitive-services/)
-- [Explore Natural Language Processing](https://learn.microsoft.com/en-us/training/modules/explore-natural-language-processing/)
-- [Get started with Azure OpenAI](https://learn.microsoft.com/en-us/training/modules/get-started-azure-openai/)
+- [Introduction to AI](https://learn.microsoft.com/en-us/training/paths/intro-generative-ai-for-trainers/)
+- [Create regression models with Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning/)
+- [Build AI solutions with Azure Computer Vision](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/)
+- [Explore Natural Language Processing](https://learn.microsoft.com/en-us/training/paths/explore-natural-language-processing/)
+- [Get started with Azure OpenAI](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 
 🧠 **Skills Covered**:
 - Regression, classification, and NLP
@@ -34,10 +34,10 @@ This guide helps you identify your ideal learning path based on your current dom
 - Understanding of networking, security, and infrastructure
 
 📘 **Learn Modules**:
-- [Design for efficiency and operations](https://learn.microsoft.com/en-us/training/modules/design-efficiency-operations/)
-- [Secure Azure resources with RBAC](https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-rbac/)
-- [Implement virtual networking](https://learn.microsoft.com/en-us/training/modules/implement-virtual-networking/)
-- [Monitor and back up Azure resources](https://learn.microsoft.com/en-us/training/modules/monitor-backup-azure-resources/)
+- [Microsoft Azure Well-Architected Frameworks](https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/)
+- [Secure Azure resources with RBAC](https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/)
+- [Implement virtual networking](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/)
+- [Monitor and back up Azure resources](https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/)
 
 🧠 **Skills Covered**:
 - Identity, governance, cost management
@@ -56,9 +56,9 @@ This guide helps you identify your ideal learning path based on your current dom
 - Experience with IT administration (optional)
 
 📘 **Learn Modules**:
-- [Describe Microsoft 365 core services](https://learn.microsoft.com/en-us/training/modules/m365-core-services/)
-- [Manage devices with Microsoft Endpoint Manager](https://learn.microsoft.com/en-us/training/modules/manage-devices-endpoint-manager/)
-- [Collaborate in Microsoft Teams](https://learn.microsoft.com/en-us/training/modules/collaborate-microsoft-teams/)
+- [Describe Microsoft 365 core services](https://learn.microsoft.com/en-us/training/m365/)
+- [Manage devices with Microsoft Endpoint Manager](https://learn.microsoft.com/en-us/training/paths/explore-endpoint-management/)
+- [Collaborate in Microsoft Teams](https://learn.microsoft.com/en-us/training/paths/teamwork-specialist/)
 
 🧠 **Skills Covered**:
 - Endpoint management, Teams collaboration, M365 administration
@@ -76,9 +76,9 @@ This guide helps you identify your ideal learning path based on your current dom
 - Experience with Microsoft security solutions (preferred)
 
 📘 **Learn Modules**:
-- [Describe Zero Trust](https://learn.microsoft.com/en-us/training/modules/describe-zero-trust/)
-- [Manage identity and access in Azure AD](https://learn.microsoft.com/en-us/training/modules/manage-identity-access-azure-ad/)
-- [Protect against threats with Microsoft Defender](https://learn.microsoft.com/en-us/training/modules/protect-against-threats-microsoft-defender/)
+- [Describe Zero Trust](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-assessment-progress-tracking-resources)
+- [Manage identity and access in Azure AD](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/)
+- [Protect against threats with Microsoft Defender](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-365-defender/)
 
 🧠 **Skills Covered**:
 - Threat protection, SIEM, Zero Trust model, Conditional Access
@@ -96,9 +96,9 @@ This guide helps you identify your ideal learning path based on your current dom
 - Understanding of APIs and cloud-native app development
 
 📘 **Learn Modules**:
-- [Develop solutions using Azure Cosmos DB](https://learn.microsoft.com/en-us/training/modules/develop-solutions-azure-cosmos-db/)
-- [Build cloud-native apps with Azure Container Apps](https://learn.microsoft.com/en-us/training/modules/build-cloud-native-apps-azure-container-apps/)
-- [Secure your cloud solutions](https://learn.microsoft.com/en-us/training/modules/secure-cloud-solutions/)
+- [Develop solutions using Azure Cosmos DB](https://learn.microsoft.com/en-us/training/paths/az-204-develop-solutions-that-use-azure-cosmos-db/)
+- [Build cloud-native apps with Azure Container Apps](https://learn.microsoft.com/en-us/training/paths/create-microservices-with-dotnet/)
+- [Secure your cloud solutions](https://learn.microsoft.com/en-us/training/paths/az-204-implement-secure-cloud-solutions/)
 
 🧠 **Skills Covered**:
 - App services, Azure functions, CI/CD, Containers, Cosmos DB
@@ -116,8 +116,8 @@ This guide helps you identify your ideal learning path based on your current dom
 
 📘 **Learn Modules**:
 - [Explore core data concepts](https://learn.microsoft.com/en-us/training/modules/explore-core-data-concepts/)
-- [Work with relational data in Azure](https://learn.microsoft.com/en-us/training/modules/work-with-relational-data-in-azure/)
-- [Perform analytics with Azure Synapse](https://learn.microsoft.com/en-us/training/modules/perform-analytics-azure-synapse/)
+- [Work with relational data in Azure](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-relational-database-offerings-azure/)
+- [Perform analytics with Azure Synapse](https://learn.microsoft.com/en-us/training/modules/manage-monitor-data-warehouse-activities-azure-synapse-analytics/)
 
 🧠 **Skills Covered**:
 - SQL databases, Synapse Analytics, Azure Data Lake, Big Data
@@ -135,7 +135,7 @@ This guide helps you identify your ideal learning path based on your current dom
 
 📘 **Learn Modules**:
 - [Automate a business process with Power Automate](https://learn.microsoft.com/en-us/training/modules/automate-process-power-automate/)
-- [Create a chatbot with Power Virtual Agents](https://learn.microsoft.com/en-us/training/modules/create-chatbot-power-virtual-agents/)
+- [Create a chatbot with Power Virtual Agents](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/add-power-virtual-agents-bot-to-teams)
 - [Analyze data with Power BI](https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/)
 
 🧠 **Skills Covered**:
@@ -152,9 +152,9 @@ This guide helps you identify your ideal learning path based on your current dom
 - Familiarity with Windows OS deployment and management
 
 📘 **Learn Modules**:
-- [Deploy Windows 11 in an enterprise](https://learn.microsoft.com/en-us/training/modules/deploy-windows-11-enterprise/)
-- [Manage updates and security using Intune](https://learn.microsoft.com/en-us/training/modules/manage-updates-security-intune/)
-- [Develop desktop apps with WinUI and .NET](https://learn.microsoft.com/en-us/training/modules/develop-desktop-apps-winui-dotnet/)
+- [Deploy Windows 11 in an enterprise](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/windows-desktop-multitenant-hosting-deployment)
+- [Manage updates and security using Intune](https://learn.microsoft.com/en-us/intune/intune-service/)
+- [Develop desktop apps with WinUI and .NET](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
 
 🧠 **Skills Covered**:
 - Windows app development, Intune device policies, Windows lifecycle management
@@ -169,9 +169,8 @@ This guide helps you identify your ideal learning path based on your current dom
 - Interest or background in AR/VR, IoT devices, or spatial computing
 
 📘 **Learn Modules**:
-- [Introduction to Azure Digital Twins](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-digital-twins/)
-- [Build mixed reality apps with Unity and MRTK](https://learn.microsoft.com/en-us/training/modules/build-mixed-reality-apps-unity-mrtk/)
-- [Connect IoT devices to Azure IoT Hub](https://learn.microsoft.com/en-us/training/modules/connect-iot-devices-azure-iot-hub/)
+- [Build mixed reality apps with Unity and MRTK](https://learn.microsoft.com/en-us/training/paths/build-mixed-reality-azure-digital-twins-unity/)
+- [Connect IoT devices to Azure Digital Twins](https://learn.microsoft.com/en-us/training/modules/connect-iot-hololens-azure-digital-twins-unity/)
 
 🧠 **Skills Covered**:
 - Spatial computing, Unity development, Azure IoT
@@ -187,9 +186,9 @@ This guide helps you identify your ideal learning path based on your current dom
 - Familiarity with virtualization, networking, and hybrid cloud environments  
 
 📘 **Learn Modules**:
-- [Implement Azure Virtual Machines](https://learn.microsoft.com/en-us/training/modules/implement-azure-virtual-machines/)
-- [Manage Azure Resources](https://learn.microsoft.com/en-us/training/modules/manage-azure-resources/)
-- [Monitor Azure Resources](https://learn.microsoft.com/en-us/training/modules/monitor-azure-resources/)
+- [Implement Azure Virtual Machines](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/)
+- [Manage Azure Resources](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-manage-deploy-azure-resources/)
+- [Monitor Azure Resources](https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/)
 
 🧠 **Skills Covered**:
 - Virtual machine provisioning and configuration  
@@ -206,11 +205,6 @@ This guide helps you identify your ideal learning path based on your current dom
 🔍 **Prerequisites**:
 - Experience with device and identity management  
 - Familiarity with Microsoft Intune and Azure AD  
-
-📘 **Learn Modules**:
-- [Implement Enterprise Mobility](https://learn.microsoft.com/en-us/training/modules/implement-enterprise-mobility/)
-- [Manage Enterprise Mobility](https://learn.microsoft.com/en-us/training/modules/manage-enterprise-mobility/)
-- [Secure Enterprise Mobility](https://learn.microsoft.com/en-us/training/modules/secure-enterprise-mobility/)
 
 🧠 **Skills Covered**:
 - Mobile device and app management  
