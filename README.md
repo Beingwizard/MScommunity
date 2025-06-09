@@ -24,7 +24,7 @@ This guide helps you identify your ideal learning path based on your current dom
 🧾 **Certifications**:
 - [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 - [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
-- [Azure Data Scientist Associate](https://learn.microsoft.com/en-us/credentials/certifications/data-scientist-associate/)
+- [Azure Data Scientist Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/?practice-assessment-type=certification)
 
 ---
 
