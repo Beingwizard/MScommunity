@@ -46,7 +46,7 @@ This guide helps you identify your ideal learning path based on your current dom
 🧾 **Certifications**:
 - [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
 - [Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
-- [Azure Solutions Architect Expert (AZ-305)](https://learn.microsoft.com/en-us/credentials/certifications/solutions-architect/)
+- [Azure Solutions Architect Expert (AZ-305)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/)
 
 ---
 
@@ -64,9 +64,8 @@ This guide helps you identify your ideal learning path based on your current dom
 - Endpoint management, Teams collaboration, M365 administration
 
 🧾 **Certifications**:
-- [Microsoft 365 Fundamentals (MS-900)](https://learn.microsoft.com/en-us/credentials/certifications/m365-fundamentals/)
-- [Microsoft Teams Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/teams-administrator-associate/)
-- [Messaging Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/messaging-administrator/)
+- [Microsoft Certified: Dynamics 365 Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/?practice-assessment-type=certification) 
+- [Microsoft Teams Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/m365-teams-administrator-associate/?practice-assessment-type=certification)
 
 ---
 
@@ -84,9 +83,9 @@ This guide helps you identify your ideal learning path based on your current dom
 - Threat protection, SIEM, Zero Trust model, Conditional Access
 
 🧾 **Certifications**:
-- [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/sc-900/)
-- [SC-200: Security Operations Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/sc-200/)
-- [SC-300: Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/sc-300/)
+- [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
+- [SC-200: Security Operations Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)
+- [SC-300: Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
 
 ---
 
@@ -124,7 +123,7 @@ This guide helps you identify your ideal learning path based on your current dom
 
 🧾 **Certifications**:
 - [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
-- [Azure Database Administrator Associate (DP-300)](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator/)
+- [Azure Database Administrator Associate (DP-300)](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/?practice-assessment-type=certification)
 
 ---
 
@@ -134,7 +133,7 @@ This guide helps you identify your ideal learning path based on your current dom
 - Interest in low-code/no-code app development
 
 📘 **Learn Modules**:
-- [Automate a business process with Power Automate](https://learn.microsoft.com/en-us/training/modules/automate-process-power-automate/)
+- [Automate a business process with Power Automate](https://learn.microsoft.com/en-us/training/paths/automate-process-power-automate/)
 - [Create a chatbot with Power Virtual Agents](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/add-power-virtual-agents-bot-to-teams)
 - [Analyze data with Power BI](https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/)
 
@@ -197,7 +196,7 @@ This guide helps you identify your ideal learning path based on your current dom
 
 🧾 **Certifications**:
 - [Azure Administrator Associate (AZ‑104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
-- [Azure Solutions Architect Expert (AZ‑305)](https://learn.microsoft.com/en-us/credentials/certifications/solutions-architect/)
+- [Azure Solutions Architect Expert (AZ‑305)](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/)
 
 ---
 
@@ -213,4 +212,4 @@ This guide helps you identify your ideal learning path based on your current dom
 
 🧾 **Certifications**:
 - [Modern Desktop Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/modern-desktop/)
-- [Security Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/security-administrator-associate/)
+- [Security Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/information-security-administrator/?practice-assessment-type=certification)
